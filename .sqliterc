@@ -1,0 +1,8 @@
+
+.headers off
+.mode column
+select "list of databases:";
+.databases
+select "list of tables:";
+.tables
+.headers on
